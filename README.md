@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gokul123Nath
+- 👋 Hi, I’m @GokulNath
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Data Science and ML
 - 💞️ I’m looking to collaborate on ML and AI
